@@ -1,0 +1,1 @@
+在put函数中，两个不同的e可能next到同一个n中，导致missing
